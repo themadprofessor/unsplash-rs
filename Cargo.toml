@@ -1,0 +1,18 @@
+[package]
+name = "splash-rs"
+version = "0.1.0"
+authors = ["Stuart Reilly <stu@reilly-family.co.uk>"]
+repository = "https://github.com/themadprofessor/splash/tree/master/lib"
+
+[dependencies]
+hyper = "0.12"
+serde = "1.0"
+serde_json = "1.0"
+serde_derive = "1.0"
+chrono = { version = "0.4", features = ["serde"]}
+failure = "0.1.2"
+futures = "*"
+lazy_static = "1.0"
+serde_url_params = "0.1"
+itertools = "0.7"
+log = "0.4"
