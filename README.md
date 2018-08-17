@@ -1,4 +1,4 @@
-# splash-rs
+# Unsplash-rs
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 ![splash](https://docs.rs/splash/badge.svg)
@@ -19,7 +19,7 @@ Currently, very unfinished.
 ## Install
 
 ```toml
-splash-rs = "0.1"
+unsplash-rs = "0.1"
 ```
 
 ## Usage

@@ -1,8 +1,8 @@
 [package]
-name = "splash-rs"
+name = "unsplash-rs"
 version = "0.1.0"
 authors = ["Stuart Reilly <stu@reilly-family.co.uk>"]
-repository = "https://github.com/themadprofessor/splash/tree/master/lib"
+repository = "https://github.com/themadprofessor/unsplash-rs"
 
 [dependencies]
 hyper = "0.12"
